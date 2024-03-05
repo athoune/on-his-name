@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
+	_dns "github.com/athoune/on-his-name/dns"
 	dnstap "github.com/dnstap/golang-dnstap"
-	_dns "github.com/factorysh/on-his-name/dns"
 	"github.com/miekg/dns"
 	"google.golang.org/protobuf/proto"
 )

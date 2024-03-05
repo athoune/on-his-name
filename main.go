@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
+	_dns "github.com/athoune/on-his-name/dns"
+	"github.com/athoune/on-his-name/firewall"
+	"github.com/athoune/on-his-name/output"
 	dnstap "github.com/dnstap/golang-dnstap"
-	_dns "github.com/factorysh/on-his-name/dns"
-	"github.com/factorysh/on-his-name/firewall"
-	"github.com/factorysh/on-his-name/output"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
 

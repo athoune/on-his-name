@@ -1,4 +1,4 @@
-module github.com/factorysh/on-his-name
+module github.com/athoune/on-his-name
 
 go 1.21
 

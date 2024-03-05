@@ -10,11 +10,11 @@ import (
 	"sort"
 	"strings"
 
+	_dns "github.com/athoune/on-his-name/dns"
 	iptbl "github.com/coreos/go-iptables/iptables"
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/filters"
 	"github.com/docker/docker/client"
-	_dns "github.com/factorysh/on-his-name/dns"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
 )
