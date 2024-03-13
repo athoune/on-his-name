@@ -8,7 +8,7 @@ require (
 	github.com/docker/docker v25.0.3+incompatible
 	github.com/miekg/dns v1.1.58
 	github.com/prometheus/client_golang v1.19.0
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
