@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/coreos/go-iptables v0.7.0
 	github.com/dnstap/golang-dnstap v0.4.0
-	github.com/docker/docker v25.0.3+incompatible
+	github.com/docker/docker v25.0.5+incompatible
 	github.com/miekg/dns v1.1.58
 	github.com/prometheus/client_golang v1.19.0
 	google.golang.org/protobuf v1.32.0
